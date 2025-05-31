@@ -1,0 +1,21 @@
+{
+  "name": "cess-auto-reff",
+  "version": "2.0.0",
+  "description": "Advanced auto referral bot for CESS Network",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cfonts": "^3.1.1",
+    "chalk": "^5.3.0",
+    "ethers": "^6.9.2",
+    "form-data": "^4.0.0",
+    "https-proxy-agent": "^7.0.2",
+    "ora": "^7.1.0",
+    "socks-proxy-agent": "^8.0.2",
+    "user-agents": "^1.0.1156"
+  }
+}
